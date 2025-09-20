@@ -24,7 +24,7 @@ This repository contains the backend implementation for a social media applicati
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/mujtabaalmas/Python-backend-fastapi.git
+   git clone https://github.com/mustafasafdar1/Python-backend-fastapi
    cd Python-backend-fastapi
    ```
 
